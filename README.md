@@ -33,7 +33,7 @@ The data was intentionally dirtied with inconsistent casing, extra spaces, and m
 
 ---
 
-## Concepts Applied
+## Concepts/Learned Applied
 
 **String Functions**
 - `INITCAP`: capitalize the first letter of each word
